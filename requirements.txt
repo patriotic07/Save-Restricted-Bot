@@ -1,3 +1,4 @@
+git+https://github.com/cavallium/faster-pyrogram.git
 pyrogram
 tgcrypto
 flask
